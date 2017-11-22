@@ -1,6 +1,9 @@
 @font-face{
-	font-family: TLF;
-	src: url(TheLightFont.ttf);
+	font-family: CDL;
+	src: url(CODELIGHT.otf);
+
+	font-family: CDF;
+	src: url(CODEBOLD.otf);
 }
 
 
@@ -18,11 +21,11 @@ body{
 }
 
 h3{
-	font-family: TLF;
+	font-family: CDF;
 }
 
 p{
-	font-family: TLF;
+	font-family: CDL;
 }
 
 /*
@@ -67,8 +70,8 @@ li{
 
 a:link{
 	text-decoration: none;
-	font-family:TLF;
 	color:inherit;
+	font-family: CDF;
 }
 
 
@@ -83,6 +86,13 @@ content
 #home-content{
 	margin-left: 20px;
 }
+
+#main{
+	margin-left: 20px;
+	
+
+}
+
 
 /*
 footer
