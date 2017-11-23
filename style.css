@@ -1,7 +1,9 @@
 @font-face{
 	font-family: CDL;
 	src: url(CODELIGHT.otf);
+}
 
+@font-face{
 	font-family: CDF;
 	src: url(CODEBOLD.otf);
 }
@@ -93,8 +95,7 @@ content
 
 #main{
 	margin-left: 20px;
-
-	
+	font-family: CDL;
 
 	
 
