@@ -22,11 +22,15 @@ body{
 
 h3{
 	font-family: CDF;
+	max-width: 50%;
+
 }
 
 p{
 	font-family: CDL;
+	max-width: 50%;
 }
+
 
 /*
 Header
@@ -89,8 +93,14 @@ content
 
 #main{
 	margin-left: 20px;
+
 	
 
+	
+
+}
+#gif{
+	
 }
 
 
